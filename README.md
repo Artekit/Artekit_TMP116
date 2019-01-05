@@ -1,6 +1,6 @@
 # Artekit AK-TMP116N - Library for Arduino
 
-The [Artekit AK-TMP116N](https://www.artekit.eu/products/breakout-boards/ak-tmp116n/) is a breakout board for the Texas Instruments TMP116N temperature sensor. The TMP116N is a of low-power, high-precision temperature sensor with integrated EEPROM memory. The sensor provides a 16-bit temperature result with a resolution of 0.0078 °C and an accuracy of up to ±0.3°C with no calibration.
+The [Artekit AK-TMP116N](https://www.artekit.eu/products/breakout-boards/ak-tmp116n/) is a breakout board for the Texas Instruments TMP116N temperature sensor. The TMP116N is a low-power, high-precision temperature sensor with integrated EEPROM memory. The sensor provides a 16-bit temperature result with a resolution of 0.0078 °C and an accuracy of up to ±0.3°C with no calibration.
 
 [![](https://www.artekit.eu/resources/doc/ak-tmp116n/ak-tmp116n-blog.jpg)](https://www.artekit.eu/products/breakout-boards/ak-tmp116n/)
 
@@ -85,6 +85,7 @@ You can eventually set your own sensor configuration by directly accessing the s
 ## Additional Information
 
 * [Product page](https://www.artekit.eu/products/breakout-boards/ak-tmp116n/)
+* [Documentation](https://www.artekit.eu/doc/guides/ak-tmp116n/)
 * [Schematics](https://www.artekit.eu/resources/ak-tmp116n/doc/AK-TMP116N-Schematics.pdf)
 * [Board dimensions](https://www.artekit.eu/resources/ak-tmp116n/doc/AK-TMP116N-Dimensions.pdf)
 * [TMP116N datasheet](https://www.artekit.eu/resources/ak-tmp116n/doc/tmp116.pdf)
